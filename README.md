@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on AI, ML or DL Projects
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: vardhaman.varun.jain@gmail.com
-- 😄 Pronouns: Friend, Mentor, Enthusiast
+- 😄 Pronouns: Friend, Enthusiast
 - ⚡ Fun fact: I love to explore 😄
 ---
 
