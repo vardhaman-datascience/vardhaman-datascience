@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on data engineering  projects
 - 🌱 I’m post graduate in Data Science
-- 👯 I’m looking to collaborate on AI, ML or DL Projects
+- 👯 I’m looking to collaborate on ML and Analytics Projects
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: vardhaman.varun.jain@gmail.com
 - 😄 Pronouns: Friend, Enthusiast
